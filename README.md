@@ -9,8 +9,8 @@ I've been studying programming for a year, I really like web development.  I am 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [ryanberioncosta0@gmail.com](mailto:ryanberioncosta0@gmail.com)
 * 🚀  I'm currently working on [Lidersofth](http://www.econodata.com.br/consulta-empresa/23418141000124-LS-Sistemas-de-Gestao-Ltda)
-* 🧠  I'm learning D
-* 🤝  I'm open to collaborating on Q
+* 🧠  I'm learning Delphi, HTML, CSS e JS 
+* 🤝  I'm open to collaborating on Any type of project
 
 ### Skills
 
